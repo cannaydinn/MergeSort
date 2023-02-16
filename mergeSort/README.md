@@ -14,4 +14,4 @@ Adım 3: [16] [21] [11]  ,  [8] [12] [22] --> (Tek elemanları elde ettik.) <br>
 Adım 4: [11,16,21]  ,  [8,12,22] --> (Kendi içlerinde sıralı hale getirdik.) <br>
 Adım 5: [8,11,12,16,21,22] --> (Sıralama işlemini bitirdik.) <br><br>
 
-Big-O gösterimi: O(nlogn)
+Big-O gösterimi: O(nlogn) 
